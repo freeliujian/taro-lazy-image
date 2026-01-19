@@ -1,11 +1,16 @@
 {
   "name": "taro-lazy-image",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.1",
   "description": "taro-lazy-image",
   "main": "./lib/src/index.js",
   "types": "./types/index.d.ts",
   "module": "./lib/src/index.js",
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/freeliujian/taro-lazy-image",
   "templateInfo": {
     "name": "react-NutUI",
     "typescript": true,
